@@ -1,0 +1,14 @@
+int menu();
+void afficherDateActuelle();
+int menuAdmin();
+int menuListe();
+int menuUser();
+void disableEcho();
+void enableEcho();
+void controle(char *nom);
+void marquerPresences();
+void connexion();
+int menuAc();
+void lister();
+void saisir(int t[], int *n, int taill);
+void confirmer();
